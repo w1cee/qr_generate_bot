@@ -2,4 +2,4 @@
 
 Send text to your bot and get QR-code!  
   
-![gif-demo_3](https://user-images.githubusercontent.com/93093228/163449608-ef469b35-6121-4358-8683-653b490f62a2.gif)
+![image](https://user-images.githubusercontent.com/93093228/163988507-59665351-1372-4e2d-adbe-d18558fb38f1.png)
